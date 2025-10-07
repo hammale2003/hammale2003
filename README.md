@@ -1,84 +1,62 @@
 <div align="center">
 
-# 🎮 Loading Profile...
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Hammale Mourad
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=Hello%2C+I'm+Hammale+Mourad;Press+START+to+Begin)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=AI+Engineer+%40+CentraleSup%C3%A9lec;Building+LegalTech+%7C+HealthTech+%7C+FinTech;Generative+AI+%2B+Deep+Learning;From+Ideas+to+Real+Impact+🚀)](https://git.io/typing-svg)
 
-```ascii
-╔══════════════════════════════════════════════════════════════╗
-║  🎯 AI Engineering Student @ CentraleSupélec                 ║
-║  🚀 Building AI Solutions that Transform Lives               ║
-║  💡 LegalTech • HealthTech • FinTech Innovator              ║
-╚══════════════════════════════════════════════════════════════╝
+<a href="https://www.linkedin.com/in/hammale-mourad-5117a5247/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://huggingface.co/HAMMALE"><img src="https://img.shields.io/badge/🤗-Hugging%20Face-FFD21E?style=for-the-badge"/></a>
+
+</div>
+
+---
+
+## 🎯 Mission
+
+```typescript
+const hammale = {
+    role: "AI Engineering Student",
+    school: "CentraleSupélec",
+    passion: ["Generative AI", "Deep Learning", "Intelligent Systems"],
+    impact: "Transforming knowledge → Real-world solutions",
+    domains: ["LegalTech 🏛️", "HealthTech 🏥", "FinTech 💳"]
+};
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/hammale-mourad-5117a5247/)
-[![Hugging Face](https://img.shields.io/badge/🤗_Models-FFD21E?style=for-the-badge&labelColor=000000)](https://huggingface.co/HAMMALE)
-
-</div>
-
 ---
 
-## 🎯 >> QUEST: Current Mission
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F7931E&center=true&vCenter=true&random=false&width=700&lines=Exploring+AI+Frontiers...;Machine+Learning+%7C+Generative+AI+%7C+LLMs;Transforming+Ideas+into+Impact)](https://git.io/typing-svg)
-
-</div>
-
----
-
-## 🏆 >> ACHIEVEMENTS: Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🏥 **MEDIASSIST**
-```diff
-+ Medical Report → Text/Audio/Sign Language
-+ Smart Healthcare Accessibility Platform
-+ Multi-modal AI Translation System
-```
+### 🏥 **MediAssist**
+<img src="https://img.shields.io/badge/HealthTech-4CAF50?style=flat-square"/> <img src="https://img.shields.io/badge/AI-FF6B6B?style=flat-square"/>
 
-**Tech Stack:**
-- 🎤 Speech Recognition & Synthesis
-- 🤖 NLP & Medical Entity Extraction
-- 👋 Sign Language Generation
-- 🔊 Audio Processing
+**Medical Report → Speech + Sign Language**
 
-<div align="center">
+Convert complex medical reports into:
+- 🎤 **Audio** (Text-to-Speech)
+- 🤟 **Sign Language** (Visual translation)
+- ♿ Making healthcare accessible for all
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-</div>
+**Tech:** `PyTorch` `Transformers` `Computer Vision` `Speech AI`
 
 </td>
 <td width="50%">
 
 ### 🧤 **Smart Sign Language Glove**
-```diff
-+ Sign Language → Real-time Audio
-+ Wearable AI for Deaf Communication
-+ IoT + Deep Learning Integration
-```
+<img src="https://img.shields.io/badge/IoT-00BCD4?style=flat-square"/> <img src="https://img.shields.io/badge/AI-FF6B6B?style=flat-square"/>
 
-**Features:**
-- 🎯 Gesture Recognition via Sensors
-- 🔊 Instant Voice Output
-- 📡 Wireless Connectivity
-- 🧠 On-device ML Inference
+**Sign Language → Real-time Audio**
 
-<div align="center">
+Smart glove translating gestures into speech:
+- 🤖 **Real-time processing**
+- 🎯 **High accuracy detection**
+- 🔊 **Natural voice synthesis**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-
-</div>
+**Tech:** `TensorFlow` `Edge AI` `Arduino` `Speech Synthesis`
 
 </td>
 </tr>
@@ -86,173 +64,93 @@
 
 ---
 
-## 🎮 >> SKILL TREE
-
-<div align="center">
+## 🧠 Expertise Matrix
 
 ```mermaid
-%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#00D9FF','primaryTextColor':'#fff','primaryBorderColor':'#00D9FF','lineColor':'#F7931E','secondaryColor':'#006100','tertiaryColor':'#fff'}}}%%
-mindmap
-  root((🧠 AI Arsenal))
-    🤖 Deep Learning
-      PyTorch
-      TensorFlow
-      Keras
-    🎨 Generative AI
-      LLMs
-      Diffusion Models
-      VLM Finetuning
-    🔬 Specialized
-      Knowledge Distillation
-      Model Compression
-      Quantization
-    💡 Applications
-      LegalTech AI
-      HealthTech AI
-      Speech AI
-      Computer Vision
-    🛠️ MLOps
-      LLMOps
-      Model Deployment
-      A/B Testing
+graph LR
+    A[AI Engineering] --> B[Deep Learning]
+    A --> C[Generative AI]
+    A --> D[Computer Vision]
+    
+    B --> E[PyTorch]
+    B --> F[TensorFlow]
+    
+    C --> G[LLMs]
+    C --> H[Diffusion Models]
+    C --> I[VLM Finetuning]
+    
+    D --> J[Medical Imaging]
+    D --> K[Sign Language Recognition]
+    
+    style A fill:#6366F1,color:#fff
+    style B fill:#EC4899,color:#fff
+    style C fill:#10B981,color:#fff
+    style D fill:#F59E0B,color:#fff
 ```
+
+<div align="center">
+
+**Deep Learning** • **Generative AI** • **LLMs** • **Computer Vision** • **Speech AI** • **Reinforcement Learning**  
+**Knowledge Distillation** • **Model Compression** • **Quantization** • **Continual Learning** • **AI Agents**  
+**LegalTech** • **HealthTech** • **FinTech** • **Startup Innovation** • **Research & Leadership**
 
 </div>
 
 ---
 
-## ⚡ >> POWER UPS: Tech Stack
+## 💻 Tech Arsenal
 
 <div align="center">
 
-### 🧠 AI & ML Core
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+### AI/ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)
 
-### 🎨 Generative AI & LLMs
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)
-![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)
+### Generative AI
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Claude-CC9B7A?style=for-the-badge&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)
+![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-0000FF?style=for-the-badge)
 
-### 🔊 Speech & Vision
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge)
-![Whisper](https://img.shields.io/badge/Whisper-10A37F?style=for-the-badge)
-
-### 💻 Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+### Development
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### ☁️ Cloud & MLOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 >> STATS: Player Profile
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=VOTRE_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=F7931E&text_color=FFFFFF"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=VOTRE_USERNAME&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=F7931E&fire=F7931E&currStreakLabel=00D9FF"/>
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=VOTRE_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=EC4899&text_color=FFFFFF"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=VOTRE_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=6366F1&fire=EC4899&currStreakLabel=EC4899"/>
 
 </div>
 
 ---
 
-## 🌍 >> IMPACT ZONES
+## 🎨 Impact Spectrum
 
-<div align="center">
-
-```diff
-╔════════════════════════════════════════════════════════════════╗
-║                    🎯 AREAS OF IMPACT                          ║
-╠════════════════════════════════════════════════════════════════╣
-║                                                                 ║
-║  ⚖️  LEGALTECH        →  Automating Legal Workflows           ║
-║  🏥  HEALTHTECH       →  Accessible Medical Solutions         ║
-║  💰  FINTECH          →  Intelligent Financial Systems        ║
-║  🗣️  ACCESSIBILITY    →  Breaking Communication Barriers      ║
-║                                                                 ║
-╚════════════════════════════════════════════════════════════════╝
+```mermaid
+pie title "Focus Areas Distribution"
+    "HealthTech Solutions" : 35
+    "LegalTech Automation" : 30
+    "FinTech Intelligence" : 20
+    "Research & Innovation" : 15
 ```
 
-</div>
-
----
-
-## 🎓 >> EXPERTISE BADGES
-
 <div align="center">
 
-**🔥 CORE SKILLS 🔥**
-
-`Deep Learning` `Generative AI` `LLMs` `Knowledge Distillation` `Continual Learning` `Computer Vision` `LegalTech AI` `HealthTech AI` `VLM Finetuning` `Diffusion Models` `Pretraining` `Finetuning` `Embeddings` `Speech AI` `Reinforcement Learning` `AI Agents` `Model Compression` `Quantization` `LLMOps` `NLP` `Security AI` `Web Scraping` `Leadership` `Research & Innovation` `Startup Creation`
-
-</div>
-
----
-
-## 🎬 >> ACTIVITY FEED
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VOTRE_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=F7931E&point=FFFFFF)](https://github.com/VOTRE_USERNAME)
-
-</div>
-
----
-
-## 🏅 >> ACHIEVEMENTS UNLOCKED
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=VOTRE_USERNAME&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
-
-</div>
-
----
-
-## 🎯 >> MISSION STATEMENT
-
-<div align="center">
-
-```ascii
-╔═══════════════════════════════════════════════════════════════════╗
-║                                                                   ║
-║   💭  "I don't just build algorithms —                           ║
-║       I architect experiences that empower,                       ║
-║       solutions that transform,                                   ║
-║       and innovations that inspire."                              ║
-║                                                                   ║
-║   🎯  Transforming Knowledge into Impact                         ║
-║   🚀  Building a Smarter, More Inclusive Future                  ║
-║                                                                   ║
-╚═══════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-## 🤝 >> CONNECT: Join the Party
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hammale-mourad-5117a5247/)
-[![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-AI_Models-FFD21E?style=for-the-badge)](https://huggingface.co/HAMMALE)
-[![Email](https://img.shields.io/badge/📧_Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:votre.email@example.com)
+| 🏛️ **LegalTech** | 🏥 **HealthTech** | 💳 **FinTech** |
+|:---:|:---:|:---:|
+| Automating legal workflows | Accessible healthcare AI | Smart financial systems |
+| Document processing | Medical report translation | Fraud detection |
+| Compliance AI | Sign language tech | Risk analysis |
 
 </div>
 
@@ -260,10 +158,8 @@ mindmap
 
 <div align="center">
 
-![Views](https://komarev.com/ghpvc/?username=VOTRE_USERNAME&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+### 💡 *Building AI that empowers people, not replaces them*
 
-### ⚡ *Powered by Curiosity • Driven by Impact* ⚡
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+![Visitors](https://api.visitorbadge.io/api/visitors?path=VOTRE_USERNAME&label=Visitors&countColor=%236366f1&style=flat-square)
 
 </div>

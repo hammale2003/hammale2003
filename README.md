@@ -127,7 +127,7 @@ graph LR
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=VOTRE_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=EC4899&text_color=FFFFFF"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hammale2003&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=EC4899&text_color=FFFFFF"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hammale2003&theme=radical&hide_border=true&background=0D1117&ring=6366F1&fire=EC4899&currStreakLabel=EC4899"/>
 
 </div>

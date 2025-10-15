@@ -131,35 +131,9 @@ graph LR
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hammale2003&theme=radical&hide_border=true&background=0D1117&ring=6366F1&fire=EC4899&currStreakLabel=EC4899"/>
 
 </div>
-
----
-
-## 🎨 Impact Spectrum
-
-```mermaid
-pie title "Focus Areas Distribution"
-    "HealthTech Solutions" : 35
-    "LegalTech Automation" : 30
-    "FinTech Intelligence" : 20
-    "Research & Innovation" : 15
-```
-
-<div align="center">
-
-| 🏛️ **LegalTech** | 🏥 **HealthTech** | 💳 **FinTech** |
-|:---:|:---:|:---:|
-| Automating legal workflows | Accessible healthcare AI | Smart financial systems |
-| Document processing | Medical report translation | Fraud detection |
-| Compliance AI | Sign language tech | Risk analysis |
-
-</div>
-
 ---
 
 <div align="center">
 
-### 💡 *Building AI that empowers people, not replaces them*
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=VOTRE_USERNAME&label=Visitors&countColor=%236366f1&style=flat-square)
-
+### *Building AI that empowers people, not replaces them*
 </div>

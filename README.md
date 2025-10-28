@@ -23,29 +23,6 @@ const hammale = {
 };
 ---
 
-## 🧠 Expertise Matrix
-
-```mermaid
-graph LR
-    A[AI Engineering] --> B[Deep Learning]
-    A --> C[Generative AI]
-    A --> D[Computer Vision]
-    
-    B --> E[PyTorch]
-    B --> F[TensorFlow]
-    
-    C --> G[LLMs]
-    C --> H[Diffusion Models]
-    C --> I[VLM Finetuning]
-    
-    D --> J[Medical Imaging]
-    D --> K[Sign Language Recognition]
-    
-    style A fill:#6366F1,color:#fff
-    style B fill:#EC4899,color:#fff
-    style C fill:#10B981,color:#fff
-    style D fill:#F59E0B,color:#fff
-```
 
 <div align="center">
 

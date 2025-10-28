@@ -21,47 +21,6 @@ const hammale = {
     impact: "Transforming knowledge → Real-world solutions",
     domains: ["LegalTech 🏛️", "HealthTech 🏥", "FinTech 💳"]
 };
-```
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏥 **MediAssist**
-<img src="https://img.shields.io/badge/HealthTech-4CAF50?style=flat-square"/> <img src="https://img.shields.io/badge/AI-FF6B6B?style=flat-square"/>
-
-**Medical Report → Speech + Sign Language**
-
-Convert complex medical reports into:
-- 🎤 **Audio** (Text-to-Speech)
-- 🤟 **Sign Language** (Visual translation)
-- ♿ Making healthcare accessible for all
-
-**Tech:** `PyTorch` `Transformers` `Computer Vision` `Speech AI`
-
-</td>
-<td width="50%">
-
-### 🧤 **Smart Sign Language Glove**
-<img src="https://img.shields.io/badge/IoT-00BCD4?style=flat-square"/> <img src="https://img.shields.io/badge/AI-FF6B6B?style=flat-square"/>
-
-**Sign Language → Real-time Audio**
-
-Smart glove translating gestures into speech:
-- 🤖 **Real-time processing**
-- 🎯 **High accuracy detection**
-- 🔊 **Natural voice synthesis**
-
-**Tech:** `TensorFlow` `Edge AI` `Arduino` `Speech Synthesis`
-
-</td>
-</tr>
-</table>
-
 ---
 
 ## 🧠 Expertise Matrix

@@ -21,7 +21,7 @@
 
 ---
 
-## 💻 Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
@@ -36,26 +36,16 @@
 ![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)
 ![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-0000FF?style=for-the-badge)
 
-### Development
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hammale2003&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=EC4899&text_color=FFFFFF"/>
 
 </div>
----
 
-<div align="center">
-
-### *Building AI that empowers people, not replaces them*
-</div>

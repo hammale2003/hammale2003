@@ -39,13 +39,6 @@
 
 </div>
 
----
 
-## GitHub Activity
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hammale2003&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=EC4899&text_color=FFFFFF"/>
-
-</div>
 

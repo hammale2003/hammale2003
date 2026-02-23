@@ -2,7 +2,7 @@
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Hammale Mourad
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=AI+Engineer+%40+CentraleSup%C3%A9lec;Building+LegalTech+%7C+HealthTech+%7C+FinTech;Generative+AI+%2B+Deep+Learning;From+Ideas+to+Real+Impact+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=AI+Engineer+Student+%40+CentraleSup%C3%A9lec;Building+LegalTech+%7C+HealthTech+%7C+FinTech;Generative+AI+%2B+Deep+Learning;From+Ideas+to+Real+Impact+🚀)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/hammale-mourad-5117a5247/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://huggingface.co/HAMMALE"><img src="https://img.shields.io/badge/🤗-Hugging%20Face-FFD21E?style=for-the-badge"/></a>
